@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-studentapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "angular": "1.6.10",
+    "bootstrap": "latest",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.3"
+  },
+  "devDependencies": {
+    "@types/angular": "1.6.51",
+    "@types/bootstrap": "4.1.2",
+    "@types/jquery": "3.3.12",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
